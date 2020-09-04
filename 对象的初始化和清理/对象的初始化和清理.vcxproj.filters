@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="07 类对象作为类成员.cpp">
+    <ClCompile Include="08 静态成员-静态成员变量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
