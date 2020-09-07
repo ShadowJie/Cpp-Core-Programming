@@ -1,0 +1,6 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -3,3 +3,4 @@
+ 
+ 1.Initialization and cleanup of construction in C++
+ 2.C++ object model and 'this' pointer
++3.Tomomoto
