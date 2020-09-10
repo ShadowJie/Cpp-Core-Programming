@@ -7,3 +7,4 @@ ShadowJie's learning note for C++
 ###4. Operator overloading
 ###5. Inheritance
 ###6. Polymorphism
+###7. File operations
