@@ -6,3 +6,4 @@ ShadowJie's learning note for C++
 ###3. Tomomoto
 ###4. Operator overloading
 ###5. Inheritance
+###6. Polymorphism
