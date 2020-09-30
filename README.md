@@ -17,3 +17,4 @@
 11. STL(Standard Template Library)
 12. Speech contest process management system based on STL
 13. Computer room reservation system
+14. MFC SaleSystem
